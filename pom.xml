@@ -12,7 +12,7 @@
 
   <modules>
     <module>multi-module</module>
-    <module>single-module-${v}</module>
+    <module>single-module</module>
   </modules>
 
   <prerequisites>
