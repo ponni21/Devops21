@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hi h ru 
-=======
-hi h r
->>>>>>> samplebranch1
